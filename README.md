@@ -1,7 +1,12 @@
 # Command Crawler Coursework
 ## Welcome to my Dungeon Crawler Game
-The goal of the game is to move your character to the goal.
-On your way you could collect coins and fight monsters
+This project was part of first-year coursework, module COMP1000. 
+
+The aim of the game is to move your character to the goal.
+On your way you could collect coins and fight monsters.
+
+Link to video explination of project: 
+https://youtu.be/pz68JwjFflc
 
 ## Icons
 - "#" are walls which cannot be passed
@@ -57,7 +62,7 @@ Run the Crawler.exe file
 
 <sup>What the game looks like on startup</sup>
 
-<img src="Images/Startup.png" height="450">
+<img src="comp1000-coursework/Images/Startup.png" height="450">
 
 ###### **To load a map**
 
@@ -65,24 +70,24 @@ Type load and then the name of your map to load it
 <sub>(e.g. load Simple.map)</sub>
 
 <sup>What the game looks like when map is loaded</sup>
-<img src="Images/CurrentlyloadedmapSimplemap.png" height="450">
+<img src="comp1000-coursework/Images/CurrentlyloadedmapSimplemap.png" height="450">
 
 ###### **To enter advanced mode**
 
 Either before or after a loading map type "advanced" to toggle advanced mode on/off
 
 <sup>What the game looks like when map is loaded and advanced mode is on</sup>
-<img src="Images/CurrentlyloadedmapSimplemapAdvancedmodeON.png" height="450">
-<img src="Images/CurrentlyloadedmapAdvancedmapAdvancedmodeON.png" height="450">
+<img src="comp1000-coursework/Images/CurrentlyloadedmapSimplemapAdvancedmodeON.png" height="450">
+<img src="comp1000-coursework/Images/CurrentlyloadedmapAdvancedmapAdvancedmodeON.png" height="450">
 
 ###### **To start the game**
 
 Once a map has been loaded type "start" to start the game
 
 <sup>What the game looks like when the game has started</sup>
-<img src="Images/SimplemapStart.png" height="450">
-<img src="Images/Simple2mapStart.png" height="450">
-<img src="Images/AdvancedmapStart.png" height="450">
+<img src="comp1000-coursework/Images/SimplemapStart.png" height="450">
+<img src="comp1000-coursework/Images/Simple2mapStart.png" height="450">
+<img src="comp1000-coursework/Images/AdvancedmapStart.png" height="450">
 
 ###### **While game is running**
 
@@ -97,9 +102,9 @@ Controls for the player are as follows
 <sub>(Enter doesn't need to be pressed when action is made)</sub>
 
 <sup>What the game looks like while the game is running</sup>
-<img src="Images/SimpleCoinPickup.png" height="450">
-<img src="Images/AdvancedmapBossMonster.png" height="450">
-<img src="Images/AdvancedTreasure.png" height="450">
+<img src="comp1000-coursework/Images/SimpleCoinPickup.png" height="450">
+<img src="comp1000-coursework/Images/AdvancedmapBossMonster.png" height="450">
+<img src="comp1000-coursework/Images/AdvancedTreasure.png" height="450">
 
 ###### **When the game has ended**
 
@@ -112,9 +117,6 @@ Type:
 
 <sup>What the end menu looks like</sup>
 
-<img src="Images/AdvancedWin.png" height="450">
-<img src="Images/AdvancedmapLose.png" height="450">
-
-Link to video: 
-https://youtu.be/pz68JwjFflc
+<img src="comp1000-coursework/Images/AdvancedWin.png" height="450">
+<img src="comp1000-coursework/Images/AdvancedmapLose.png" height="450">
 
